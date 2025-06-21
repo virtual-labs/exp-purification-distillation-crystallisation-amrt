@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The greater the surface area of the packing of the fractionating column,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The lower its efficiency",
+        "b": "Efficiency doesn't depends on the surface area of the column",
+        "c": "The faster the distillation will proceed",
+        "d": "The greater its efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Larger surface area typically improves efficiency.",
+        "b": "Incorrect – Surface area does affect efficiency.",
+        "c": "Incorrect – Speed isn't necessarily improved by surface area.",
+        "d": "Correct – Greater surface area provides more surface for condensation and evaporation cycles, improving separation."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When the vapour pressure of a liquid equals atmospheric pressure, the temperature of the liquid equals:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The boiling point",
+        "b": "The Vapourisation point",
+        "c": "The normal boiling point",
+        "d": "100°C"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct – By definition, this is the boiling point.",
+        "b": "Incorrect – Vaporisation point is a broader term.",
+        "c": "Incorrect – Normal boiling point refers to 1 atm pressure.",
+        "d": "Incorrect – Only true for water at 1 atm."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
