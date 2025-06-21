@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
    {
-      "question": "The greater the surface area of the packing of the fractionating column,",
+      "question": "The separation technique shown in the diagram is",
       "answers": {
-        "a": "The lower its efficiency",
-        "b": "Efficiency doesn't depends on the surface area of the column",
-        "c": "The faster the distillation will proceed",
-        "d": "The greater its efficiency"
+        "a": "Crystallization",
+        "b": "Fractional distillation",
+        "c": "Filtration",
+        "d": "Chromatography"
       },
       "explanations": {
-        "a": "Incorrect – Larger surface area typically improves efficiency.",
-        "b": "Incorrect – Surface area does affect efficiency.",
-        "c": "Incorrect – Speed isn't necessarily improved by surface area.",
-        "d": "Correct – Greater surface area provides more surface for condensation and evaporation cycles, improving separation."
+        "a": "Incorrect – Crystallization involves forming solid crystals.",
+        "b": "Correct – Diagram most likely refers to this as per the topic.",
+        "c": "Incorrect – Filtration is for solid-liquid separation.",
+        "d": "Incorrect – Chromatography is a different method."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "When the vapour pressure of a liquid equals atmospheric pressure, the temperature of the liquid equals:",
+      "question": "Two completely miscible liquids can be separated by",
       "answers": {
-        "a": "The boiling point",
-        "b": "The Vapourisation point",
-        "c": "The normal boiling point",
-        "d": "100°C"
+        "a": "Sublimation",
+        "b": "Separating funnel",
+        "c": "Fractional distillation",
+        "d": "Steam distillation"
       },
       "explanations": {
-        "a": "Correct – By definition, this is the boiling point.",
-        "b": "Incorrect – Vaporisation point is a broader term.",
-        "c": "Incorrect – Normal boiling point refers to 1 atm pressure.",
-        "d": "Incorrect – Only true for water at 1 atm."
+        "a": "Incorrect – Sublimation is for solids.",
+        "b": "Incorrect – Separating funnel is for immiscible liquids.",
+        "c": "Correct – Fractional distillation separates miscible liquids.",
+        "d": "Incorrect – Steam distillation is used for temperature-sensitive components."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In distillation of a mixture of two components, the first compound to condense into the receiving flask will be:",
+      "answers": {
+        "a": "The one with the higher melting point",
+        "b": "The one with the lower melting point",
+        "c": "The one with the lower boiling point",
+        "d": "The one with the higher boiling point"
+      },
+      "explanations": {
+        "a": "Incorrect – Melting point is irrelevant in distillation.",
+        "b": "Incorrect – Same reason as above.",
+        "c": "Correct – Lower boiling point compounds vaporize and condense first.",
+        "d": "Incorrect – They condense later, not first."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
