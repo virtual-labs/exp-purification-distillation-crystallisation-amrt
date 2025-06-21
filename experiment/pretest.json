@@ -1,36 +1,53 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The separation technique shown in the diagram is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Crystallization",
+        "b": "Fractional distillation",
+        "c": "Filtration",
+        "d": "Chromatography"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Crystallization involves forming solid crystals.",
+        "b": "Correct – Diagram most likely refers to this as per the topic.",
+        "c": "Incorrect – Filtration is for solid-liquid separation.",
+        "d": "Incorrect – Chromatography is a different method."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Two completely miscible liquids can be separated by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sublimation",
+        "b": "Separating funnel",
+        "c": "Fractional distillation",
+        "d": "Steam distillation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Sublimation is for solids.",
+        "b": "Incorrect – Separating funnel is for immiscible liquids.",
+        "c": "Correct – Fractional distillation separates miscible liquids.",
+        "d": "Incorrect – Steam distillation is used for temperature-sensitive components."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In distillation of a mixture of two components, the first compound to condense into the receiving flask will be:",
+      "answers": {
+        "a": "The one with the higher melting point",
+        "b": "The one with the lower melting point",
+        "c": "The one with the lower boiling point",
+        "d": "The one with the higher boiling point"
+      },
+      "explanations": {
+        "a": "Incorrect – Melting point is irrelevant in distillation.",
+        "b": "Incorrect – Same reason as above.",
+        "c": "Correct – Lower boiling point compounds vaporize and condense first.",
+        "d": "Incorrect – They condense later, not first."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
