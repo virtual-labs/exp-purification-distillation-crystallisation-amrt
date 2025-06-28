@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Two completely miscible liquids can be separated by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steam distillation",
+        "b": "Separating funnel",
+        "c": "Fractional distillation",
+        "d": "Sublimation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Used for immiscible liquids.",
+        "b": "Used for immiscible liquids.",
+        "c": "Correct. Fractional distillation is ideal for separating miscible liquids with different boiling points.",
+        "d": "Used to separate solids, not liquids."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In distillation of a mixture of two components, the first compound to condense into the receiving flask will be:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The one with the lower boiling point",
+        "b": "The one with the higher melting point",
+        "c": "The one with the lower melting point",
+        "d": "The one with the higher boiling point"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. The compound with lower boiling point evaporates and condenses first.",
+        "b": "Melting point is unrelated in this context.",
+        "c": "Melting point is not a factor in distillation.",
+        "d": "Incorrect. The higher boiling compound comes over later."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
