@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+  {
+      "question": "The greater the surface area of the packing of the fractionating column,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Efficiency doesn't depends on the surface area of the column",
+        "b": "The faster the distillation will proceed",
+        "c": "The lower its efficiency",
+        "d": "The greater its efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Efficiency is directly related to surface area.",
+        "b": "Incorrect. Speed depends on heat rate, not surface area.",
+        "c": "Incorrect. Greater surface area improves separation, not lowers it.",
+        "d": "Correct. More surface area improves the efficiency by allowing better separation."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When the vapour pressure of a liquid equals atm pressure, the temperature of the liquid equals:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The Vapourisation point",
+        "b": "The normal boiling point",
+        "c": "100°C",
+        "d": "The boiling point"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Partially correct, but the precise term is 'boiling point'.",
+        "b": "Correct only at 1 atm; 'boiling point' is more general.",
+        "c": "Only true for water at 1 atm.",
+        "d": "Correct. Boiling occurs when vapour pressure equals atmospheric pressure."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
